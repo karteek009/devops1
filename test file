@@ -2,3 +2,4 @@ touch file{1..5}
 touch dev{1..5}
 touch aws{1..2}
 touch test{1..5}
+touch files
